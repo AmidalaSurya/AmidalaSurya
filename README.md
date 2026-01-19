@@ -79,22 +79,31 @@ Visualized insights using statistical indicators.
 
 Strengthened understanding of time-series data analysis.
 
-📈 Skills
+## 📈 Skills
 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-FF6F61?logoColor=white&style=flat)
 
+# My GitHub Profile
 
-
-
-
-
-
-
-
-
-
-
-
-
+## Skills
+| Skill                      | Proficiency     |
+|----------------------------|-----------------|
+| Python                     | ![Python](https://img.shields.io/badge/Progress-100%25-brightgreen) |
+| Data Structures and Algorithms | ![Data Structures](https://img.shields.io/badge/Progress-85%25-yellowgreen) |
+| SQL                        | ![SQL](https://img.shields.io/badge/Progress-90%25-green) |
+| Pandas and NumPy           | ![Pandas](https://img.shields.io/badge/Progress-100%25-brightgreen) |
+| Power BI                   | ![Power BI](https://img.shields.io/badge/Progress-100%25-brightgreen) |
+| Data Analytics             | ![Data Analytics](https://img.shields.io/badge/Progress-90%25-green) |
+| Core Java                  | ![Java](https://img.shields.io/badge/Progress-70%25-yellow) |
+| HTML                       | ![HTML](https://img.shields.io/badge/Progress-80%25-yellowgreen) |
+| CSS                        | ![CSS](https://img.shields.io/badge/Progress-80%25-yellowgreen) |
 
 🧠 Core Concepts
 
