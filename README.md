@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--👋 Hi, I'm Amidala Surya Kumar
+👋 Hi, I'm Amidala Surya Kumar
 
 I'm a motivated and detail-oriented Full Stack Developer with hands-on experience in building scalable web applications. I have strong problem-solving skills and a solid foundation in Object-Oriented Programming, Data Structures, and SDLC. I’m passionate about applying my technical knowledge to real-world projects and continuously improving my skills.
 
@@ -157,4 +157,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
